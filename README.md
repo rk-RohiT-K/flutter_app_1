@@ -1,7 +1,5 @@
 
-# 🛫Flutter Travel App Concept 
-
-Flutter representation of a Travel App Concept i found in Uplabs. 
+# 🛫Flutter Travel App Concept  
 **It only consists of 2 screens.**
 
 Images are from [Unsplash](https://unsplash.com)
